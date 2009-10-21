@@ -1,0 +1,33 @@
+CachingBackend: Loading instances from cache
+Creating new entry for RingSensorsScreenlet in /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/RingSensors/default/
+No instance(s) found in session-path, creating new one.
+/home/goffa/.config/Screenlets/RingSensors/default/RingSensors1
+Can't open /proc/acpi/ibm/thermal
+Can't open /proc/acpi/ibm/fan
+Hddtemp not installed
+['nvidia GPU core: 61.0C']
+Can't open /proc/acpi/ibm/thermal
+Can't open /proc/acpi/ibm/fan
+Hddtemp not installed
+Can't open /proc/acpi/ibm/thermal
+Can't open /proc/acpi/ibm/fan
+Hddtemp not installed
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/RingSensors/themes/default
+OK
+(1, 1, 1, 0.59999999999999998)
+0.6
+(1, 1, 1, 0.90000000000000002)
+0.9
+(1, 1, 1, 1)
+1
+/home/goffa/.screenlets/RingSensors/themes
+Path /home/goffa/.screenlets/RingSensors/themes not found.
+/usr/share/screenlets/RingSensors/themes
+active theme is: default
+Changed: sensor
+Changed: sensor
+OK
+Quitting current screenlet instance
+[<RingSensorsScreenlet object at 0x9431f54 (screenlets+Screenlet at 0x93888a0)>]

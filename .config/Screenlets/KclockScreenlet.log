@@ -1,0 +1,18 @@
+CachingBackend: Loading instances from cache
+CachingBackend: Loading <Kclock1>
+Creating new entry for KclockScreenlet in /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/Kclock/default/
+File: Kclock1.ini
+/home/goffa/.config/Screenlets/Kclock/default/Kclock1
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/Kclock/themes/default
+Set options in KclockScreenlet
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/Kclock/themes/default
+Restored instances from session 'default' ...
+Button release
+/home/goffa/.screenlets/Kclock/themes
+Path /home/goffa/.screenlets/Kclock/themes not found.
+/usr/share/screenlets/Kclock/themes
+active theme is: default
+OK

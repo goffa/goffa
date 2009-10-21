@@ -1,0 +1,66 @@
+CachingBackend: Loading instances from cache
+CachingBackend: Loading <MediaPlayerDaemon1>
+CachingBackend: Loading <MediaPlayerDaemon2>
+Creating new entry for MediaPlayerDaemonScreenlet in /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/MediaPlayerDaemon/default/
+File: MediaPlayerDaemon1.ini
+/home/goffa/.config/Screenlets/MPD /default/MediaPlayerDaemon1
+LOAD NEW THEME: default
+FOUND: /home/goffa/.screenlets/MediaPlayerDaemon/themes/default
+theme.conf found! Loading option-overrides.
+theme.conf loaded: 
+Name: MPD Default Theme
+Author: Christophe Magusiak
+Version: 0.2
+Info: Default theme for MPD screenle
+Loading the screenlet interface...
+Set options in MPD Screenlet
+Paint check rate set to 250ms
+LOAD NEW THEME: default
+FOUND: /home/goffa/.screenlets/MediaPlayerDaemon/themes/default
+theme.conf found! Loading option-overrides.
+theme.conf loaded: 
+Name: MPD Default Theme
+Author: Christophe Magusiak
+Version: 0.2
+Info: Default theme for MPD screenle
+Loading the screenlet interface...
+MPD refresh rate set to 1000ms
+MPD Screenlet has been initialized.
+Loading the screenlet interface...
+MPD refresh rate set to 1000ms
+Paint check rate set to 250ms
+File: MediaPlayerDaemon2.ini
+/home/goffa/.config/Screenlets/MPD /default/MediaPlayerDaemon2
+LOAD NEW THEME: default
+FOUND: /home/goffa/.screenlets/MediaPlayerDaemon/themes/default
+theme.conf found! Loading option-overrides.
+theme.conf loaded: 
+Name: MPD Default Theme
+Author: Christophe Magusiak
+Version: 0.2
+Info: Default theme for MPD screenle
+Loading the screenlet interface...
+Set options in MPD Screenlet
+Paint check rate set to 250ms
+LOAD NEW THEME: default
+FOUND: /home/goffa/.screenlets/MediaPlayerDaemon/themes/default
+theme.conf found! Loading option-overrides.
+theme.conf loaded: 
+Name: MPD Default Theme
+Author: Christophe Magusiak
+Version: 0.2
+Info: Default theme for MPD screenle
+Loading the screenlet interface...
+MPD Password changed
+MPD refresh rate set to 1000ms
+MPD Screenlet has been initialized.
+Loading the screenlet interface...
+MPD refresh rate set to 1000ms
+Paint check rate set to 250ms
+Restored instances from session 'default' ...
+OK
+OK
+Button release
+OK
+Failed to unregister from daemon: org.freedesktop.DBus.Error.ServiceUnknown: The name :1.7 was not provided by any .service files

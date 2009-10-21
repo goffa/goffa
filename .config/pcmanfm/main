@@ -1,0 +1,12 @@
+[General]
+show_side_pane=0
+view_mode=2
+
+[Window]
+width=1910
+height=1024
+splitter_pos=160
+maximized=0
+
+[Desktop]
+[Interface]

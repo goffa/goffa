@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mcs-option SYSTEM "mcs-option.dtd">
+
+<mcs-option>
+	<option name="Xfce4/ShortcutThemeFile" type="string" value="/home/goffa/.config/xfce4/shortcuts/New.xml"/>
+	<option name="Xfce4/ShortcutThemeName" type="string" value="New"/>
+</mcs-option>

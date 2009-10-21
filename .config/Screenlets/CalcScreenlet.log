@@ -1,0 +1,16 @@
+CachingBackend: Loading instances from cache
+Creating new entry for CalcScreenlet in /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/Calc/default/
+No instance(s) found in session-path, creating new one.
+/home/goffa/.config/Screenlets/Calc/default/Calc1
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/Calc/themes/default
+Screenlet has been initialized.
+OK
+/home/goffa/.screenlets/Calc/themes
+Path /home/goffa/.screenlets/Calc/themes not found.
+/usr/share/screenlets/Calc/themes
+active theme is: default
+CachingBackend: <#Calc1> removed!
+Removing last instance from session
+TODO: remove self.path: /home/goffa/.config/Screenlets/Calc/default/

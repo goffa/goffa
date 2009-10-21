@@ -1,0 +1,34 @@
+CachingBackend: Loading instances from cache
+Creating new entry for ExecuteScreenlet in /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/Execute/default/
+No instance(s) found in session-path, creating new one.
+/home/goffa/.config/Screenlets/Execute/default/Execute1
+LOAD NEW THEME: default
+FOUND: /home/goffa/.screenlets/Execute/themes/default
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+Button release
+OK
+OK
+Screenlet: Set theme cimiblue
+LOAD NEW THEME: cimiblue
+FOUND: /home/goffa/.screenlets/Execute/themes/cimiblue
+theme:cimiblue
+OK
+Screenlet: Set theme default
+LOAD NEW THEME: default
+FOUND: /home/goffa/.screenlets/Execute/themes/default
+theme:default
+/home/goffa/.screenlets/Execute/themes
+active theme is: default
+/usr/share/screenlets/Execute/themes
+Path /usr/share/screenlets/Execute/themes not found.
+OK
+Changed: is_sticky
+OK
+Changed: is_widget
+OK
+Changed: lock_position
+OK
+options

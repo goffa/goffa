@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InterfaceSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HubSettings>
+    <Hub Hostname="fnul.no-ip.info:1036">
+      <VisibleColumns>3</VisibleColumns>
+      <PanePosition>583</PanePosition>
+    </Hub>
+  </HubSettings>
+  <ToolbarVisible>true</ToolbarVisible>
+  <DownloadPageDirectoryTreeVisible>false</DownloadPageDirectoryTreeVisible>
+  <DownloadPageSourcesVisible>false</DownloadPageSourcesVisible>
+  <DownloadPagePanePosition>0</DownloadPagePanePosition>
+  <SearchColumns>63</SearchColumns>
+  <DownloadColumns>31</DownloadColumns>
+  <UploadColumns>235</UploadColumns>
+  <WindowX>882</WindowX>
+  <WindowY>161</WindowY>
+  <WindowWidth>827</WindowWidth>
+  <WindowHeight>805</WindowHeight>
+  <WindowMaximized>false</WindowMaximized>
+</InterfaceSettings>

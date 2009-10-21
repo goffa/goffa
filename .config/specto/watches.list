@@ -1,0 +1,11 @@
+[fark]
+redirect = False
+error_margin = 2.0
+open_command =
+changed = False
+last_changed =
+refresh = 3600000
+uri = fark.com
+command =
+active = True
+type = Watch_web_static

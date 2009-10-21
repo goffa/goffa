@@ -1,0 +1,18 @@
+[Global]
+ShowFrame=true
+Rows=1
+
+[Applications]
+deluge=false
+fusion-icon=false
+orage=false
+ario=false
+do=false
+gmpc=false
+opera=false
+pulseaudio device chooser=false
+vlc=false
+nicotine=false
+easystroke=false
+qirssi=false
+

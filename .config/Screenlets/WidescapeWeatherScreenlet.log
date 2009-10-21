@@ -1,0 +1,84 @@
+CachingBackend: Loading instances from cache
+Creating new entry for WidescapeWeatherScreenlet in /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/WidescapeWeather/default/
+No instance(s) found in session-path, creating new one.
+45
+33
+/home/goffa/.config/Screenlets/WidescapeWeather/default/WidescapeWeather1
+LOAD NEW THEME: default
+FOUND: /home/goffa/.screenlets/WidescapeWeather/themes/default
+45
+33
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+352
+33
+352
+33
+OK
+352
+33
+352
+33
+352
+33
+OK
+352
+33
+352
+33
+280
+33
+OK
+280
+33
+287
+33
+287
+33
+287
+33
+OK
+280
+33
+280
+33
+280
+33
+OK
+(0.80000000000000004, 0.10000000000000001, 0.10000000000000001, 0.90000000000000002)
+0.9
+(1, 1, 1, 0.69999999999999996)
+0.7
+(1, 1, 1, 1)
+1
+(1, 1, 1, 1)
+1
+/home/goffa/.screenlets/WidescapeWeather/themes
+active theme is: default
+/usr/share/screenlets/WidescapeWeather/themes
+Path /usr/share/screenlets/WidescapeWeather/themes not found.
+280
+33
+Changed: showTrayIcon
+280
+33
+Changed: showTrayIcon
+280
+33
+Changed: showTrayIcon
+280
+33
+Changed: showTrayIcon
+280
+33
+OK
+Changed: bgColor
+OK
+280
+33
+280
+33
+280
+33

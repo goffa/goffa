@@ -1,0 +1,1 @@
+dmenu_run -fn snap -nb "#222222" -nf "#37c8fb" -sb "#37c8fb" -sf "#000000"

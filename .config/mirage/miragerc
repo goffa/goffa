@@ -1,0 +1,24 @@
+[window]
+statusbar = True
+h = 598
+toolbar = True
+w = 1162
+
+[prefs]
+zoomvalue = 3.0
+fixed_dir = /home/goffa
+open_all = False
+bgcolor-red = 0
+last_dir = /mnt/extra1/ddump/docs/2002_06_19
+bgcolor-blue = 0
+disable_screensaver = False
+mousewheel_nav = True
+open_mode = 0
+bgcolor-green = 0
+slideshow_random = False
+editor = gimp-remote
+last_mode = 2
+slideshow_delay = 1
+use_last_dir = True
+listwrap_mode = 0
+

@@ -1,0 +1,205 @@
+<!-- Automatically generated file. Do not edit (see /usr/share/doc/menu/html/index.html) -->
+<xfdesktop-menu>   <menu name="Apps" visible="yes">
+      <menu name="Editors" visible="yes">
+         <app name="AbiWord Word Processor" cmd="/usr/bin/abiword" icon="/usr/share/AbiSuite-2.4/icons/menu.xpm"/>
+         <app name="Emacs 21 (text)" cmd="/usr/bin/emacs21 -nw" term="yes" icon="/usr/share/emacs/21.4/etc/gnu-32x32.xpm" />
+         <app name="Emacs 21 (X11)" cmd="/usr/bin/emacs21 -i" icon="/usr/share/emacs/21.4/etc/gnu-32x32.xpm"/>
+         <app name="Joe" cmd="/usr/bin/joe" term="yes" icon="" />
+         <app name="LeafPad" cmd="/usr/bin/leafpad" icon="/usr/share/pixmaps/leafpad.xpm"/>
+         <app name="MousePad" cmd="/usr/bin/mousepad" icon="/usr/share/pixmaps/mousepad.xpm"/>
+         <app name="Nano" cmd="/bin/nano" term="yes" icon="/usr/share/nano/nano-menu.xpm" />
+      </menu>
+      <menu name="Emulators" visible="yes">
+         <app name="DOSBox" cmd="/usr/bin/dosbox" icon=""/>
+      </menu>
+      <menu name="Graphics" visible="yes">
+         <app name="avidemux" cmd="/usr/bin/avidemux" icon=""/>
+         <app name="Kino" cmd="/usr/bin/kino" icon="/usr/share/pixmaps/kino.xpm"/>
+         <app name="The GIMP" cmd="/usr/bin/gimp-2.2" icon="/usr/share/gimp/2.0/images/wilber-icon.png"/>
+      </menu>
+      <menu name="Math" visible="yes">
+         <app name="Bc" cmd="/usr/bin/bc" term="yes" icon="" />
+         <app name="Dc" cmd="/usr/bin/dc" term="yes" icon="" />
+         <app name="galculator" cmd="/usr/bin/galculator" icon=""/>
+      </menu>
+      <menu name="Net" visible="yes">
+         <app name="Democracy Player" cmd="/usr/bin/democracyplayer" icon=""/>
+         <app name="Firefox Web Browser" cmd="firefox" icon="/usr/share/pixmaps/firefox.xpm"/>
+         <app name="Firestarter" cmd="gksudo /usr/sbin/firestarter" icon="/usr/share/pixmaps/firestarter.xpm"/>
+         <app name="Gaim" cmd="/usr/bin/gaim" icon="/usr/share/pixmaps/gaim-menu.xpm"/>
+         <app name="Liferea: Linux Feed Reader" cmd="/usr/bin/liferea" icon="/usr/share/liferea/pixmaps/liferea.xpm"/>
+         <app name="Manhole Twisted Client" cmd="/usr/bin/manhole" icon=""/>
+         <menu name="Mozilla Components" visible="yes">
+            <app name="Mozilla Browser" cmd="mozilla-suite" icon="/usr/share/pixmaps/mozilla-navigator.xpm"/>
+            <app name="Mozilla Composer" cmd="mozilla-suite -edit" icon="/usr/share/pixmaps/mozilla-composer.xpm"/>
+         </menu>
+         <app name="Mozilla Navigator" cmd="mozilla-suite" icon="/usr/share/pixmaps/mozilla.xpm"/>
+         <app name="Mozilla Thunderbird" cmd="mozilla-thunderbird" icon="/usr/share/pixmaps/mozilla-thunderbird-menu.xpm"/>
+         <app name="Sun Java 5.0 Web Start" cmd="/usr/lib/jvm/java-1.5.0-sun-1.5.0.08/bin/javaws" icon="/usr/share/icons/sun-java5.xpm"/>
+         <app name="Telnet" cmd="/usr/bin/telnet" term="yes" icon="" />
+         <app name="Twisted Application Generator" cmd="/usr/bin/tkmktap" icon=""/>
+         <app name="Twisted Instance Messenger" cmd="/usr/bin/t-im" icon=""/>
+         <app name="Twisted SSH Client" cmd="/usr/bin/tkconch" icon=""/>
+         <app name="w3m" cmd="/usr/bin/w3m /usr/share/doc/w3m/MANUAL.html" term="yes" icon="" />
+      </menu>
+      <menu name="Programming" visible="yes">
+         <app name="Agistudio" cmd="/usr/bin/agistudio" icon="/usr/share/pixmaps/agistudio.xpm"/>
+         <app name="ccmake" cmd="/usr/bin/ccmake" term="yes" icon="/usr/share/pixmaps/cmake.xpm" />
+         <app name="GDB" cmd="/usr/bin/gdb" term="yes" icon="" />
+         <app name="Python (v2.4)" cmd="/usr/bin/python2.4" term="yes" icon="/usr/share/pixmaps/python2.4.xpm" />
+         <app name="Qt Linguist" cmd="/usr/bin/linguist-qt4" icon=""/>
+         <app name="Tclsh8.4" cmd="/usr/bin/tclsh8.4" term="yes" icon="" />
+         <app name="TkWish8.4" cmd="x-terminal-emulator -e /usr/bin/wish8.4" icon=""/>
+      </menu>
+      <menu name="Shells" visible="yes">
+         <app name="Bash" cmd="/bin/bash --login" term="yes" icon="" />
+         <app name="Dash" cmd="/bin/dash -i" term="yes" icon="" />
+         <app name="Pdmenu" cmd="/usr/bin/pdmenu" term="yes" icon="" />
+         <app name="Sh" cmd="/bin/sh --login" term="yes" icon="" />
+      </menu>
+      <menu name="Sound" visible="yes">
+         <app name="Audacity" cmd="/usr/bin/audacity" icon="/usr/share/audacity/audacity.xpm"/>
+         <app name="easytag" cmd="/usr/bin/easytag" icon="/usr/share/pixmaps/easytag.xpm"/>
+         <app name="gmix (Gnome 2.0 Mixer)" cmd="/usr/bin/gnome-volume-control" icon="/usr/share/pixmaps/gnome-mixer.xpm"/>
+         <app name="gmpc" cmd="/usr/bin/gmpc" icon="/usr/share/pixmaps/gmpc.xpm"/>
+         <app name="gnome-cd (Gnome 2.0 CD Player)" cmd="/usr/bin/gnome-cd" icon="/usr/share/pixmaps/gnome-cd.xpm"/>
+         <app name="grecord (GNOME 2.0 Recorder)" cmd="/usr/bin/gnome-sound-recorder" icon="/usr/share/pixmaps/gnome-grecord.xpm"/>
+         <app name="vumeter (Gnome 2.0 Volume Meter)" cmd="/usr/bin/vumeter" icon="/usr/share/pixmaps/gnome-vumeter.xpm"/>
+         <app name="wmXMMS" cmd="/usr/bin/wmxmms" icon="/usr/share/pixmaps/wmxmms_32.xpm"/>
+         <app name="xfmedia" cmd="/usr/bin/xfmedia" icon=""/>
+         <app name="XMMS" cmd="/usr/bin/xmms" icon="/usr/share/pixmaps/xmms.xpm"/>
+      </menu>
+      <menu name="System" visible="yes">
+         <menu name="Admin" visible="yes">
+            <app name="alsaconf" cmd="su-to-root -p root -c /usr/sbin/alsaconf" term="yes" icon="" />
+            <app name="Orphaner (all)" cmd="/usr/sbin/su-to-root -c '/usr/sbin/orphaner -a'" term="yes" icon="" />
+            <app name="Orphaner - editkeep" cmd="/usr/sbin/su-to-root -c '/usr/sbin/editkeep'" term="yes" icon="" />
+            <app name="Orphaner (libs)" cmd="/usr/sbin/su-to-root -c /usr/sbin/orphaner" term="yes" icon="" />
+            <app name="pppconfig" cmd="/usr/sbin/su-to-root -p root -c /usr/sbin/pppconfig" term="yes" icon="" />
+         </menu>
+         <app name="aptitude" cmd="/usr/bin/aptitude" term="yes" icon="" />
+         <app name="Boot-Up Manager" cmd="/usr/bin/gksu /usr/bin/bum" icon="/usr/share/pixmaps/bum.xpm"/>
+         <app name="DSL-PPPoE configuration tool" cmd="/usr/sbin/pppoeconf" term="yes" icon="/usr/share/pixmaps/pppoeconf.xpm" />
+         <app name="GDM flexiserver" cmd="gdmflexiserver" icon="/usr/share/pixmaps/gdm.xpm"/>
+         <app name="GDM flexiserver in Xnest" cmd="gdmflexiserver -n" icon="/usr/share/pixmaps/gdm.xpm"/>
+         <app name="GDM Photo Setup" cmd="gdmphotosetup" icon="/usr/share/pixmaps/gdm.xpm"/>
+         <app name="GDM Setup" cmd="gksu gdmsetup" icon="/usr/share/pixmaps/gdm.xpm"/>
+         <app name="GNOME CUPS Manager" cmd="/usr/bin/gnome-cups-manager" icon=""/>
+         <app name="keytouch" cmd="/usr/bin/keytouch" icon="/usr/share/keytouch/pixmaps/icon.png"/>
+         <app name="Print Notification Icon" cmd="/usr/bin/gnome-cups-icon" icon=""/>
+         <app name="Pstree" cmd="/usr/bin/pstree.x11" term="yes" icon="/usr/share/pixmaps/pstree16.xpm" />
+         <app name="reportbug" cmd="/usr/bin/reportbug --exit-prompt" term="yes" icon="" />
+         <app name="Sun Java 5.0 Plugin Control Panel" cmd="/usr/lib/jvm/java-1.5.0-sun-1.5.0.08/bin/ControlPanel" icon="/usr/share/icons/sun-java5.xpm"/>
+         <app name="Sun Java 5.0 Policy Tool" cmd="/usr/lib/jvm/java-1.5.0-sun-1.5.0.08/bin/policytool" icon="/usr/share/icons/sun-java5.xpm"/>
+         <app name="Synaptic Package Manager" cmd="/usr/bin/gksu /usr/sbin/synaptic" icon="/usr/share/synaptic/pixmaps/synaptic_32x32.xpm"/>
+         <app name="Task selector" cmd="su-to-root -c tasksel" term="yes" icon="" />
+         <app name="TeXconfig" cmd="/usr/bin/texconfig" term="yes" icon="" />
+         <app name="Top" cmd="/usr/bin/top" term="yes" icon="" />
+         <app name="Virus Scanner" cmd="/usr/bin/clamtk" icon="/usr/share/pixmaps/clamtk.xpm"/>
+         <app name="X-Terminal as root (GKsu)" cmd="/usr/bin/gksu -u root /usr/bin/x-terminal-emulator" icon="/usr/share/pixmaps/gksu-debian.xpm"/>
+      </menu>
+      <menu name="Text" visible="yes">
+         <app name="Fortune" cmd="sh -c 'while /usr/games/fortune | col -x | xmessage -center -buttons OK:1,Another:0 -default OK -file - ; do :; done'" icon=""/>
+      </menu>
+      <menu name="Tools" visible="yes">
+         <app name="GnomeBaker" cmd="/usr/bin/gnomebaker" icon="/usr/share/pixmaps/gnomebaker.xpm"/>
+         <app name="GTK+ 1.2 Theme Switch" cmd="/usr/bin/switch" icon=""/>
+         <app name="GTK+ 2.0 Theme Switch" cmd="/usr/bin/switch2" icon=""/>
+         <app name="HPLIP Fax address book" cmd="/usr/bin/hp-fab" icon="/usr/share/pixmaps/HPmenu.xpm"/>
+         <app name="HPLIP Fax utility" cmd="/usr/bin/hp-sendfax" icon="/usr/share/pixmaps/HPmenu.xpm"/>
+         <app name="HPLIP File printing" cmd="/usr/bin/hp-print" icon="/usr/share/pixmaps/HPmenu.xpm"/>
+         <app name="HPLIP Toolbox" cmd="/usr/bin/hp-toolbox" icon="/usr/share/pixmaps/hp-logo.xpm"/>
+         <app name="Qt Assistant" cmd="/usr/bin/assistant-qt4" icon=""/>
+         <app name="TeXfind" cmd="/usr/bin/texfind" icon=""/>
+         <app name="Video::DVDRip" cmd="/usr/bin/dvdrip" icon=""/>
+         <app name="Xarchiver" cmd="/usr/bin/xarchiver" icon="/usr/share/pixmaps/xarchiver.xpm"/>
+         <app name="xbindkeys" cmd="/usr/bin/xbindkeys" icon=""/>
+         <app name="X cd-roast" cmd="/usr/bin/xcdroast" icon="/usr/share/pixmaps/xcdroast.xpm"/>
+         <app name="Xfce Application Finder" cmd="xfce4-appfinder" icon="/usr/share/pixmaps/xfce4-appfinder.xpm"/>
+         <app name="Xfce Mixer" cmd="/usr/bin/xfce4-mixer" icon="/usr/share/pixmaps/xfce4-mixer.xpm"/>
+         <app name="Xfce-setting-show" cmd="xfce-setting-show" icon="/usr/share/pixmaps/xfce4-mcs-manager.xpm"/>
+         <app name="xfprint4" cmd="xfprint4" icon=""/>
+         <app name="XFrun4" cmd="xfrun4" icon=""/>
+         <app name="XFTaskbar4" cmd="xftaskbar4" icon=""/>
+         <app name="xvkbd" cmd="/usr/bin/xvkbd" icon=""/>
+      </menu>
+      <menu name="Viewers" visible="yes">
+         <app name="Adobe Reader" cmd="/usr/bin/acroread" icon="/usr/share/pixmaps/acroread.xpm"/>
+         <app name="GQview" cmd="/usr/bin/gqview" icon="/usr/share/pixmaps/gqview.xpm"/>
+         <app name="gxine video player" cmd="/usr/bin/gxine" icon="/usr/share/gxine/pixmaps/gxine-icon.xpm"/>
+         <app name="ImageMagick" cmd="/usr/bin/display" icon=""/>
+         <app name="totem" cmd="/usr/bin/totem" icon="/usr/share/pixmaps/totem.xpm"/>
+         <app name="XDvi" cmd="/usr/bin/xdvi" icon=""/>
+         <app name="xine media player" cmd="/usr/bin/xine" icon="/usr/share/pixmaps/xine.xpm"/>
+      </menu>
+   </menu>
+   <menu name="Games" visible="yes">
+      <menu name="Adventure" visible="yes">
+         <app name="Balazar" cmd="/usr/games/balazar" icon=""/>
+         <app name="Flight of the Amazon Queen" cmd="/usr/games/scummvm -p /usr/share/scummvm/flight-of-the-amazon-queen queen" icon=""/>
+         <app name="ScummVM" cmd="/usr/games/scummvm" icon="/usr/share/icons/scummvm.xpm"/>
+      </menu>
+      <menu name="Arcade" visible="yes">
+         <app name="Gnibbles" cmd="/usr/games/gnibbles" icon="/usr/share/pixmaps/gnibbles.xpm"/>
+         <app name="Monster Masher" cmd="monster-masher" icon="/usr/share/pixmaps/monster-masher.png"/>
+         <app name="Ur-Quan Masters" cmd="/usr/games/uqm" icon=""/>
+      </menu>
+      <menu name="Board" visible="yes">
+         <app name="Four-in-a-row" cmd="/usr/games/gnect" icon="/usr/share/pixmaps/gnect.xpm"/>
+         <app name="Gataxx" cmd="/usr/games/gataxx" icon="/usr/share/pixmaps/gataxx.xpm"/>
+         <app name="Gnome GYahtzee" cmd="/usr/games/gtali" icon="/usr/share/pixmaps/gtali.xpm"/>
+         <app name="Gnome Iagno" cmd="/usr/games/iagno" icon="/usr/share/pixmaps/iagno.xpm"/>
+         <app name="Gnome Lines" cmd="/usr/games/glines" icon="/usr/share/pixmaps/glines.xpm"/>
+         <app name="Gnome Mahjongg" cmd="/usr/games/mahjongg" icon="/usr/share/pixmaps/gnome-mahjongg.xpm"/>
+      </menu>
+      <menu name="Card" visible="yes">
+         <app name="Gnome Blackjack" cmd="/usr/games/blackjack" icon="/usr/share/pixmaps/blackjack.xpm"/>
+         <app name="Gnome FreeCell" cmd="/usr/games/sol --variation freecell" icon="/usr/share/pixmaps/freecell.xpm"/>
+         <app name="Gnome Solitaire Games" cmd="/usr/games/sol" icon="/usr/share/pixmaps/aisleriot.xpm"/>
+      </menu>
+      <menu name="Puzzles" visible="yes">
+         <app name="Gnome Klotski" cmd="/usr/games/gnotski" icon="/usr/share/pixmaps/gnotski.xpm"/>
+         <app name="Gnome Robots" cmd="/usr/games/gnobots2" icon="/usr/share/pixmaps/gnobots2.xpm"/>
+         <app name="Gnome Tetravex" cmd="/usr/games/gnotravex" icon="/usr/share/pixmaps/gnotravex.xpm"/>
+         <app name="Gnomine" cmd="/usr/games/gnomine" icon="/usr/share/pixmaps/gnomine.xpm"/>
+         <app name="Same Gnome" cmd="/usr/games/same-gnome" icon="/usr/share/pixmaps/gsame.xpm"/>
+      </menu>
+      <menu name="Tetris-like" visible="yes">
+         <app name="Gnometris" cmd="/usr/games/gnometris" icon="/usr/share/pixmaps/gnometris.xpm"/>
+      </menu>
+   </menu>
+   <menu name="Help" visible="yes">
+      <app name="Info" cmd="info" term="yes" icon="" />
+      <app name="TeXdoctk" cmd="/usr/bin/texdoctk" icon=""/>
+      <app name="TeXshow" cmd="/usr/bin/texshow" icon=""/>
+   </menu>
+   <menu name="Screen" visible="yes">
+      <menu name="Lock" visible="yes">
+         <app name="Lock Screen (XScreenSaver)" cmd="/usr/bin/xscreensaver-command -lock" icon=""/>
+      </menu>
+      <menu name="Save" visible="yes">
+         <app name="Activate ScreenSaver (Next)" cmd="/usr/bin/xscreensaver-command -next" icon=""/>
+         <app name="Activate ScreenSaver (Previous)" cmd="/usr/bin/xscreensaver-command -prev" icon=""/>
+         <app name="Activate ScreenSaver (Random)" cmd="/usr/bin/xscreensaver-command -activate" icon=""/>
+         <app name="Demo Screen Hacks" cmd="/usr/bin/xscreensaver-command -demo" icon=""/>
+         <app name="Disable XScreenSaver" cmd="/usr/bin/xscreensaver-command -exit" icon=""/>
+         <app name="Enable XScreenSaver" cmd="/usr/bin/xscreensaver" icon=""/>
+         <app name="Reinitialize XScreenSaver" cmd="/usr/bin/xscreensaver-command -restart" icon=""/>
+         <app name="ScreenSaver Preferences" cmd="/usr/bin/xscreensaver-command -prefs" icon=""/>
+      </menu>
+   </menu>
+   <menu name="Wine" visible="yes">
+      <menu name="Programs" visible="yes">
+         <menu name="Beneath a Steel Sky" visible="yes">
+            <app name="Beneath a Steel Sky" cmd="wine 'C:Program FilesBeneath a Steel SkyBeneath a Steel Sky.exe' " icon="/home/goffa/.menu/icons/Beneath a Steel Sky.xpm"/>
+            <app name="Configuration" cmd="wine 'C:Program FilesBeneath a Steel Skyconfiguration.exe' " icon="/home/goffa/.menu/icons/Configuration.xpm"/>
+            <app name="Uninstall" cmd="wine 'C:Program FilesBeneath a Steel Skyuninst.exe' " icon="/home/goffa/.menu/icons/Uninstall.xpm"/>
+         </menu>
+      </menu>
+   </menu>
+   <menu name="XShells" visible="yes">
+      <app name="Terminal" cmd="/usr/bin/xfce4-terminal" icon="/usr/share/pixmaps/terminal.xpm"/>
+      <app name="XTerm" cmd="xterm" icon=""/>
+      <app name="XTerm (Unicode)" cmd="uxterm" icon=""/>
+   </menu>
+</xfdesktop-menu>

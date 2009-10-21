@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE config SYSTEM "config.dtd">
+<panels>
+	<panel>
+		<properties>
+			<property name="size" value="40"/>
+			<property name="monitor" value="1"/>
+			<property name="screen-position" value="12"/>
+			<property name="fullwidth" value="0"/>
+			<property name="xoffset" value="1623"/>
+			<property name="yoffset" value="1039"/>
+			<property name="handlestyle" value="0"/>
+			<property name="autohide" value="0"/>
+			<property name="transparency" value="20"/>
+			<property name="activetrans" value="0"/>
+		</properties>
+		<items>
+			<item name="weather" id="12138541331"/>
+			<item name="orageclock" id="12371380382"/>
+			<item name="systray" id="12371379401"/>
+		</items>
+	</panel>
+</panels>

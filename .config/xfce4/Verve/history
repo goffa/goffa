@@ -1,0 +1,25 @@
+killall virtualbox
+gmpc
+mpc random on
+mpc random off
+gmpc
+xfdesktop
+Terminal
+mpd
+nvidia-settings
+gmpc
+xine dvd://
+firefox
+xkill
+galculator
+xine dvd://
+firefox
+xine dvd://
+gmpc &
+gmpc
+xine dvd://
+xine dvd://
+umount /mnt/iaudio
+xine dvd://1
+xine dvd://
+xine dvd://

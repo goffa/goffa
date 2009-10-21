@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Favorites xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Hubs>
+    <Hub Connect="true" Name="sol" Description="" Server="fnul.no-ip.info:1036" Nick="goffa" Password="Ds9&lt;8Y&lt;" />
+  </Hubs>
+  <Users />
+</Favorites>

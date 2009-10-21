@@ -1,0 +1,13 @@
+CachingBackend: Loading instances from cache
+Creating new entry for ConvertScreenlet in /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/Convert/default/
+No instance(s) found in session-path, creating new one.
+/home/goffa/.config/Screenlets/Convert/default/Convert1
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/Convert/themes/default
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+Screenlet has been initialized.
+OK

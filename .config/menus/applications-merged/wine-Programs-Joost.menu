@@ -1,0 +1,24 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>wine-wine</Name>
+    <Directory>wine-wine.directory</Directory>
+  <Menu>
+    <Name>wine-Programs</Name>
+    <Directory>wine-Programs.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-Joost</Name>
+    <Directory>wine-Programs-Joost.directory</Directory>
+    <Include>
+      <Filename>wine-Programs-Joost-Joost.desktop</Filename>
+      <Filename>wine-Programs-Joost-Joost (Safe Mode).desktop</Filename>
+      <Filename>wine-Programs-Joost-Website.desktop</Filename>
+      <Filename>wine-Programs-Joost-Uninstall.desktop</Filename>
+      <Filename>wine-Programs-Joost-Attempt Joost Repair.desktop</Filename>
+    </Include>
+  </Menu>
+  </Menu>
+  </Menu>
+</Menu>

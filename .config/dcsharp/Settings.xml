@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Pid>KP3OYXPQ6CZFNM5DISLGLGBAINZ5UZKL5X5NGBI</Pid>
+    <Nick>DCSharpUser</Nick>
+    <Connection>DSL</Connection>
+  </User>
+  <Connection>
+    <Address>192.168.0.8</Address>
+    <Port>1412</Port>
+    <SupportsIncoming>true</SupportsIncoming>
+  </Connection>
+  <Share>
+    <Directory VirtualName="bigdump">/mnt/extra2/bigdump</Directory>
+  </Share>
+  <DownloadDirectory>/mnt/extra5/dump</DownloadDirectory>
+  <TempDownloadDirectory>/mnt/extra5/dump</TempDownloadDirectory>
+  <ProtocolCodePage>windows-1252</ProtocolCodePage>
+  <Slots>5</Slots>
+  <AutoFollowRedirects>true</AutoFollowRedirects>
+  <ShareHidden>false</ShareHidden>
+  <DownloadSlots>0</DownloadSlots>
+</Settings>

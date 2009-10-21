@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcuts-theme name="New">
+	<shortcut command="gnome-screenshot" keys="Print"/>
+	<shortcut command="xfce4-popup-menu" keys="Control+Escape"/>
+	<shortcut command="xfhelp4" keys="Alt+F1"/>
+	<shortcut command="xflock4" keys="Control+Alt+Delete"/>
+	<shortcut command="xfrun4" keys="Alt+F2"/>
+	<shortcut command="xkill" keys="Control+Alt+Escape"/>
+</shortcuts-theme>

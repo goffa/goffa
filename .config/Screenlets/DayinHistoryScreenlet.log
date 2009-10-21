@@ -1,0 +1,33 @@
+CachingBackend: Loading instances from cache
+CachingBackend: Loading <DayinHistory1>
+Creating new entry for DayinHistoryScreenlet in /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/DayinHistory/default/
+File: DayinHistory1.ini
+/home/goffa/.config/Screenlets/DayinHistory/default/DayinHistory1
+LOAD NEW THEME: default
+FOUND: /home/goffa/.screenlets/DayinHistory/themes/default
+theme.conf found! Loading option-overrides.
+theme.conf loaded: 
+Name: None
+Author: None
+Version: None
+Info: None
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+Set options in DayinHistoryScreenlet
+LOAD NEW THEME: default
+FOUND: /home/goffa/.screenlets/DayinHistory/themes/default
+theme.conf found! Loading option-overrides.
+theme.conf loaded: 
+Name: None
+Author: None
+Version: None
+Info: None
+Restored instances from session 'default' ...
+OK
+OK
+OK
+OK
+OK
+OK
+Quitting current screenlet instance
+[<DayinHistoryScreenlet object at 0x9d4a964 (screenlets+Screenlet at 0x9cc1290)>]

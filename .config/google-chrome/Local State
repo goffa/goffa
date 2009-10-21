@@ -1,0 +1,83 @@
+{
+   "HostReferralList": [  ],
+   "StartupDNSPrefetchList": [ "clients1.google.com", "clients2.google.com", "id.google.com", "ocsp.thawte.com", "www.google.com" ],
+   "browser": {
+      "window_placement": {
+         "bottom": 1079,
+         "left": 944,
+         "maximized": false,
+         "right": 1904,
+         "top": 40,
+         "work_area_bottom": 1039,
+         "work_area_left": 1920,
+         "work_area_right": 3840,
+         "work_area_top": 0
+      }
+   },
+   "protocol_handler": {
+      "excluded_schemes": {
+         "afp": true,
+         "data": true,
+         "disk": true,
+         "disks": true,
+         "file": true,
+         "hcp": true,
+         "javascript": true,
+         "mailto": false,
+         "ms-help": true,
+         "news": false,
+         "nntp": true,
+         "shell": true,
+         "snews": false,
+         "vbscript": true,
+         "view-source": true,
+         "vnd": {
+            "ms": {
+               "radio": true
+            }
+         }
+      }
+   },
+   "safe_browsing": {
+      "client_key": "Uynub4xN1ktC3zBq5SsMfQ==",
+      "wrapped_key": "AKEgNis_Ty7THS88q8nFIXwjh0viE-YHSQpTkQOTTDkOndiw26k4JxVFo_P2SkZSPzBOdVkNXvI8woZkCUM_teeG2DVKsM-ihQ=="
+   },
+   "shutdown": {
+      "num_processes": 1,
+      "num_processes_slow": 0,
+      "type": 1
+   },
+   "uninstall_metrics": {
+      "installation_date2": "1252385159",
+      "launch_count": "4",
+      "uptime_sec": "309"
+   },
+   "user_experience_metrics": {
+      "initial_logs": [  ],
+      "ongoing_logs": [  ],
+      "security": {
+         "renderer_on_default_desktop": 0,
+         "renderer_on_sbox_desktop": 0
+      },
+      "session_id": 3,
+      "stability": {
+         "breakpad_registration_fail": 0,
+         "breakpad_registration_ok": 0,
+         "crash_count": 0,
+         "debugger_not_present": 0,
+         "debugger_present": 0,
+         "exited_cleanly": true,
+         "incomplete_session_end_count": 0,
+         "last_timestamp_sec": "1253397691",
+         "launch_count": 1,
+         "launch_time_sec": "1253397622",
+         "page_load_count": 0,
+         "plugin_stats2": [  ],
+         "renderer_crash_count": 0,
+         "renderer_hang_count": 0,
+         "session_end_completed": true,
+         "stats_version": "4.0.207.0",
+         "uptime_sec": "0"
+      }
+   }
+}

@@ -1,0 +1,66 @@
+CachingBackend: Loading instances from cache
+CachingBackend: Loading <TodayCalendar1>
+Creating new entry for TodayCalendarScreenlet in /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/TodayCalendar/default/
+File: TodayCalendar1.ini
+/home/goffa/.config/Screenlets/TodayCalendar/default/TodayCalendar1
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+LOAD NEW THEME: default
+FOUND: /home/goffa/.screenlets/TodayCalendar/themes/default
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+Set options in TodayCalendarScreenlet
+LOAD NEW THEME: grass
+FOUND: /home/goffa/.screenlets/TodayCalendar/themes/grass
+Restored instances from session 'default' ...
+OK
+OK
+Screenlet: Set theme moreblue
+LOAD NEW THEME: moreblue
+FOUND: /home/goffa/.screenlets/TodayCalendar/themes/moreblue
+OK
+Screenlet: Set theme blue
+LOAD NEW THEME: blue
+FOUND: /home/goffa/.screenlets/TodayCalendar/themes/blue
+OK
+OK
+Screenlet: Set theme shadedblue
+LOAD NEW THEME: shadedblue
+FOUND: /home/goffa/.screenlets/TodayCalendar/themes/shadedblue
+OK
+(1, 1, 1, 1)
+1
+/home/goffa/.screenlets/TodayCalendar/themes
+active theme is: shadedblue
+/usr/share/screenlets/TodayCalendar/themes
+Path /usr/share/screenlets/TodayCalendar/themes not found.
+LOAD NEW THEME: moregreen
+FOUND: /home/goffa/.screenlets/TodayCalendar/themes/moregreen
+LOAD NEW THEME: lessblue
+FOUND: /home/goffa/.screenlets/TodayCalendar/themes/lessblue
+LOAD NEW THEME: moreblue
+FOUND: /home/goffa/.screenlets/TodayCalendar/themes/moreblue
+LOAD NEW THEME: glassy
+FOUND: /home/goffa/.screenlets/TodayCalendar/themes/glassy
+LOAD NEW THEME: bluefancy
+FOUND: /home/goffa/.screenlets/TodayCalendar/themes/bluefancy
+LOAD NEW THEME: glassy
+FOUND: /home/goffa/.screenlets/TodayCalendar/themes/glassy
+LOAD NEW THEME: moreblue
+FOUND: /home/goffa/.screenlets/TodayCalendar/themes/moreblue
+LOAD NEW THEME: glassy
+FOUND: /home/goffa/.screenlets/TodayCalendar/themes/glassy
+LOAD NEW THEME: bluefancy
+FOUND: /home/goffa/.screenlets/TodayCalendar/themes/bluefancy
+OK
+Changed: keep_below
+OK
+Changed: keep_below
+Changed: draw_buttons
+Changed: draw_buttons
+OK
+Changed: allow_option_override
+OK
+Quitting current screenlet instance
+[<TodayCalendarScreenlet object at 0x88168c4 (screenlets+Screenlet at 0x87605a0)>]
+OK

@@ -1,0 +1,95 @@
+CachingBackend: Loading instances from cache
+CachingBackend: Loading <Tomboy1>
+Creating new entry for TomboyScreenlet in /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/Tomboy/default/
+File: Tomboy1.ini
+/home/goffa/.config/Screenlets/Tomboy/default/Tomboy1
+LOAD NEW THEME: yellow
+FOUND: /usr/share/screenlets/Tomboy/themes/yellow
+theme.conf found! Loading option-overrides.
+theme.conf loaded: 
+Name: yellow
+Author: Helder Fraga aka Whise
+Version: 1.0
+Info: Blue theme
+Override: color_title
+WARNING: Option 'color_title' not found or protected.
+Override: font
+WARNING: Option 'font' not found or protected.
+Override: color_hover
+WARNING: Option 'color_hover' not found or protected.
+Override: color_even
+WARNING: Option 'color_even' not found or protected.
+Override: font_title
+WARNING: Option 'font_title' not found or protected.
+Override: show_shadow
+WARNING: Option 'show_shadow' not found or protected.
+Override: color_back
+WARNING: Option 'color_back' not found or protected.
+Override: color_odd
+WARNING: Option 'color_odd' not found or protected.
+Override: color_text
+WARNING: Option 'color_text' not found or protected.
+Set options in TomboyScreenlet
+LOAD NEW THEME: yellow
+FOUND: /usr/share/screenlets/Tomboy/themes/yellow
+theme.conf found! Loading option-overrides.
+theme.conf loaded: 
+Name: yellow
+Author: Helder Fraga aka Whise
+Version: 1.0
+Info: Blue theme
+Override: color_title
+Override: font
+Override: color_hover
+Override: color_even
+Override: font_title
+Override: show_shadow
+Override: color_back
+Override: color_odd
+Override: color_text
+Restored instances from session 'default' ...
+ !!! Error loading Tomboy notes: [Errno 2] No such file or directory: '/home/goffa/.tomboy'
+OK
+OK
+OK
+OK
+[0.0, 0.0, 0.0, 1.0]
+1.0
+[1.0, 0.71764705882400004, 0.0, 0.90980392156900003]
+0.909803921569
+[0.0, 0.0, 0.0, 1.0]
+1.0
+[1.0, 0.99247730220499997, 0.220874341955, 0.91764705882399999]
+0.917647058824
+[1.0, 0.95007248035400005, 0.18815899900800001, 0.89803921568599998]
+0.898039215686
+[0.0, 0.0, 1.0, 0.65000000000000002]
+0.65
+/home/goffa/.screenlets/Tomboy/themes
+Path /home/goffa/.screenlets/Tomboy/themes not found.
+/usr/share/screenlets/Tomboy/themes
+active theme is: yellow
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/Tomboy/themes/default
+theme.conf found! Loading option-overrides.
+theme.conf loaded: 
+Name: default
+Author: Helder Fraga aka Whise
+Version: 1.0
+Info: Default theme
+Override: color_title
+Override: font
+Override: color_hover
+Override: color_even
+Override: font_title
+Override: show_shadow
+Override: color_back
+Override: color_odd
+Override: color_text
+OK
+OK
+OK
+CachingBackend: <#Tomboy1> removed!
+Removing last instance from session
+TODO: remove self.path: /home/goffa/.config/Screenlets/Tomboy/default/

@@ -1,0 +1,34 @@
+CachingBackend: Loading instances from cache
+Creating new entry for SidebarScreenlet in /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/Sidebar/default/
+No instance(s) found in session-path, creating new one.
+/home/goffa/.config/Screenlets/Sidebar/default/Sidebar1
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/Sidebar/themes/default
+Exception: 'Categories'
+An error occured with desktop-file: /usr/share/applications/nautilus-autorun-software.desktop
+Exception: 'Name'
+An error occured with desktop-file: /usr/share/applications/bssh.desktop
+Exception: 'Name'
+An error occured with desktop-file: /usr/share/applications/bvnc.desktop
+Exception: 'Icon'
+An error occured with desktop-file: /usr/share/applications/metacity.desktop
+Exception: 'Categories'
+An error occured with desktop-file: /usr/share/applications/nautilus-folder-handler.desktop
+Exception: 'Icon'
+An error occured with desktop-file: /usr/share/applications/screenlets-daemon.desktop
+Exception: 'Categories'
+An error occured with desktop-file: /usr/share/applications/pcmanfm-folder-handler.desktop
+Exception: 'Icon'
+An error occured with desktop-file: /usr/share/applications/wine.desktop
+Exception: 'Categories'
+An error occured with desktop-file: /usr/share/applications/gmenu-simple-editor.desktop
+Error while creating image from file: /usr/share/applications/tilda.png
+OK
+Button release
+OK
+Button release
+OK
+OK
+Quitting current screenlet instance
+[<SidebarScreenlet object at 0x97fb48c (screenlets+Screenlet at 0x975cbd0)>]

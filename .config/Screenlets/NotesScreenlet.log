@@ -1,0 +1,109 @@
+CachingBackend: Loading instances from cache
+CachingBackend: Loading <Notes1>
+CachingBackend: Loading <Notes2>
+Creating new entry for NotesScreenlet in /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/Notes/default/
+File: Notes1.ini
+/home/goffa/.config/Screenlets/Notes/default/Notes1
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/Notes/themes/default
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+Set options in NotesScreenlet
+LOAD NEW THEME: blacknote
+FOUND: /usr/share/screenlets/Notes/themes/blacknote
+Screenlet has been initialized.
+File: Notes2.ini
+/home/goffa/.config/Screenlets/Notes/default/Notes2
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/Notes/themes/default
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+Set options in NotesScreenlet
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/Notes/themes/default
+Screenlet has been initialized.
+Restored instances from session 'default' ...
+OK
+OK
+0.798165137615
+Screenlet: Set theme blacknote
+LOAD NEW THEME: blacknote
+FOUND: /usr/share/screenlets/Notes/themes/blacknote
+0.827338129496
+Button release
+0.656862745098
+OK
+0.576
+Button release
+0.576
+(0.0, 0.0, 0.0, 1.0)
+1.0
+/home/goffa/.screenlets/Notes/themes
+Path /home/goffa/.screenlets/Notes/themes not found.
+/usr/share/screenlets/Notes/themes
+active theme is: blacknote
+OK
+Changed: is_widget
+OK
+1.24657534247
+Button release
+4.44444444444
+(0.0, 0.0, 0.0, 1.0)
+1.0
+/home/goffa/.screenlets/Notes/themes
+Path /home/goffa/.screenlets/Notes/themes not found.
+/usr/share/screenlets/Notes/themes
+active theme is: blacknote
+OK
+Changed: draw_buttons
+0.539682539683
+Button release
+0.805309734513
+Button release
+1.35869565217
+Button release
+1.0
+Button release
+1.47191011236
+1.02941176471
+Button release
+1.11627906977
+Button release
+0.512195121951
+Button release
+0.701298701299
+Button release
+0.96511627907
+Button release
+1.35365853659
+Button release
+1.06593406593
+Button release
+OK
+1.48
+Button release
+1.45945945946
+Button release
+1.975
+OK
+0.979591836735
+OK
+1.45205479452
+Button release
+0.449704142012
+Button release
+0.443786982249
+Button release
+0.375757575758
+Button release
+OK
+Failed to unregister from daemon: org.freedesktop.DBus.Error.ServiceUnknown: The name :1.7 was not provided by any .service files

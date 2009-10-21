@@ -1,0 +1,51 @@
+[player]
+play_on_activate = True
+infowindow_h = 408
+trayicon = True
+covers = True
+sticky = False
+stop_on_exit = False
+ontop = False
+notification = True
+withdrawn = True
+playback = True
+statusbar = False
+notif_location = 1
+popup_time = 2
+infowindow_x = 601
+covers_pref = 2
+infowindow_w = 380
+screen = 0
+volume = True
+infowindow_y = 542
+use_infofile = False
+infofile_path = /tmp/xmms-info
+minimize = True
+h = 300
+expanded = True
+xfade = 1
+initial_run = False
+w = 400
+update_on_start = True
+y = 320
+x = 1110
+view = 0
+xfade_enabled = False
+
+[connection]
+auto = True
+host = localhost
+password = 
+port = 6600
+musicdir = /home/goffa/music/
+
+[streams]
+num_streams = 0
+
+[format]
+current = %P
+currsong1 = %P
+currsong2 = by %A from %B
+library = %A - %S
+title = [Sonata] %A - %S
+

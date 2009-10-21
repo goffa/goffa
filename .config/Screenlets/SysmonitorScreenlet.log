@@ -1,0 +1,70 @@
+CachingBackend: Loading instances from cache
+Found a running session of Sysmonitor, adding new instance by service.
+Error in screenlets.services.get_service_by_name: org.freedesktop.DBus.Error.ServiceUnknown: The name org.screenlets.Sysmonitor was not provided by any .service files
+Screenlet has already been added to /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/Sysmonitor/default/
+No instance(s) found in session-path, creating new one.
+/home/goffa/.config/Screenlets/Sysmonitor/default/Sysmonitor1
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/Sysmonitor/themes/default
+theme.conf found! Loading option-overrides.
+theme.conf loaded: 
+Name: default
+Author: Helder Fraga aka Whise
+Version: 1.0
+Info: Default theme
+Override: show_updown
+WARNING: Option 'show_updown' not found or protected.
+Override: show_time
+WARNING: Option 'show_time' not found or protected.
+Override: show_date
+WARNING: Option 'show_date' not found or protected.
+Override: show_kernel
+WARNING: Option 'show_kernel' not found or protected.
+Override: use_bg_image
+WARNING: Option 'use_bg_image' not found or protected.
+Override: show_bat_wir
+WARNING: Option 'show_bat_wir' not found or protected.
+Override: show_cpuname
+WARNING: Option 'show_cpuname' not found or protected.
+Override: font
+WARNING: Option 'font' not found or protected.
+Override: show_mem
+WARNING: Option 'show_mem' not found or protected.
+Override: show_cpus
+WARNING: Option 'show_cpus' not found or protected.
+Override: image_filename
+WARNING: Option 'image_filename' not found or protected.
+Override: color_graph
+WARNING: Option 'color_graph' not found or protected.
+Override: show_processes
+WARNING: Option 'show_processes' not found or protected.
+Override: show_swap
+WARNING: Option 'show_swap' not found or protected.
+Override: show_ip
+WARNING: Option 'show_ip' not found or protected.
+Override: show_frame
+WARNING: Option 'show_frame' not found or protected.
+Override: show_load
+WARNING: Option 'show_load' not found or protected.
+Override: color_background
+WARNING: Option 'color_background' not found or protected.
+Override: show_disks
+WARNING: Option 'show_disks' not found or protected.
+Override: show_distro
+WARNING: Option 'show_distro' not found or protected.
+Override: show_uptime
+WARNING: Option 'show_uptime' not found or protected.
+Override: expand
+WARNING: Option 'expand' not found or protected.
+Override: fontsize
+WARNING: Option 'fontsize' not found or protected.
+Override: color_text
+WARNING: Option 'color_text' not found or protected.
+Override: show_username
+WARNING: Option 'show_username' not found or protected.
+i just got started
+
+OK
+OK
+OK

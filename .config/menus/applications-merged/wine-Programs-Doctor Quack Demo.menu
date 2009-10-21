@@ -1,0 +1,21 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>wine-wine</Name>
+    <Directory>wine-wine.directory</Directory>
+  <Menu>
+    <Name>wine-Programs</Name>
+    <Directory>wine-Programs.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-Doctor Quack Demo</Name>
+    <Directory>wine-Programs-Doctor Quack Demo.directory</Directory>
+    <Include>
+      <Filename>wine-Programs-Doctor Quack Demo-DrQuack.desktop</Filename>
+      <Filename>wine-Programs-Doctor Quack Demo-Uninstall Doctor Quack Demo.desktop</Filename>
+    </Include>
+  </Menu>
+  </Menu>
+  </Menu>
+</Menu>

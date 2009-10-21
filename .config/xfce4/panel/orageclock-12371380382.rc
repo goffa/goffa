@@ -1,0 +1,14 @@
+show_frame=false
+fg_set=false
+bg_set=false
+timezone=/usr/share/zoneinfo/MST7MDT
+width_set=false
+height_set=false
+show0=true
+data0=%I:%M
+font0=Luxi Mono 22
+show1=false
+show2=false
+tooltip=%A %d %B %Y
+hib_timing=false
+

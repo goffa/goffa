@@ -1,0 +1,79 @@
+# General
+set new_window          = sh 'uzbl -u $8'
+set fifo_dir            = $HOME/.cache/uzbl
+set socket_dir          = $HOME/.cache/uzbl
+set shell_cmd           = bash -c
+set modkey              = Mod1
+set always_insert_mode  = 0
+set proxy_url           = http://127.0.0.1:8118
+set default_encoding    = utf-8
+set uri                 = google.com
+
+# Appearance
+set show_status         = 1
+set status_top          = 1
+set status_format       = <span font="snap"><span foreground="black">[</span><span foreground="red">\@[\@MODE]\@</span><span foreground="black">]</span> [<span foreground="red">\@[\@keycmd]\@</span>] <span foreground="black">\@status_message</span> <span foreground="black">\@[\@uri]\@</span> <span foreground="black">[</span><span foreground="red">\@[\@SELECTED_URI]\@</span><span foreground="black">]</span></span>
+set insert_indicator    = I
+set command_indicator   = C
+
+# Rendering
+set autoload_images     = 1
+set autoshrink_images   = 0
+set minimum_font_size   = 6
+set useragent           = Uzbl (Webkit @WEBKIT_MAJOR.@WEBKIT_MINOR.@WEBKIT_MICRO) (@(uname -s)@ @(uname -n)@ @(uname -r)@ @(uname -v)@ @(uname -m)@ [@ARCH_UZBL]) (Commit @COMMIT)
+
+# Handlers
+set cookie_handler      = talk_to_socket $XDG_CACHE_HOME/uzbl/cookie_daemon_socket
+set history_handler     = spawn $XDG_DATA_HOME/uzbl/scripts/history.sh
+set download_handler    = spawn $XDG_DATA_HOME/uzbl/scripts/download.sh
+set load_start_handler  = set status_message = <span foreground="black">[</span><span foreground="red">?</span><span foreground="black">]</span>
+set load_commit_handler = chain 'set status_message = <span foreground="black">[</span><span foreground="red">?</span><span foreground="black">]</span>' 'script $XDG_DATA_HOME/uzbl/scripts/middle_click.js'
+set load_finish_handler = chain 'set status_message = <span foreground="black">[</span><span foreground="green">!</span><span foreground="black">]</span>' 'script $XDG_DATA_HOME/uzbl/scripts/go_input.js'
+
+# Bindings
+bind    :_              = chain '%s'
+bind    <<              = scroll_begin
+bind    >>              = scroll_end
+bind    b               = back
+bind    f               = forward
+bind                  = sh 'echo "set uri = $(dirname $6)" > $4'
+bind                  = script $XDG_DATA_HOME/uzbl/scripts/uri_dec.js
+bind                  = script $XDG_DATA_HOME/uzbl/scripts/uri_inc.js
+bind    s               = stop
+bind    r               = reload
+bind    R               = reload_ign_cache
+bind    +               = zoom_in
+bind    -               = zoom_out
+bind    /*              = search %s
+bind    n               = search
+bind    s _             = set %s
+bind    i               = toggle_insert_mode
+bind                  = sh 'echo -n $6 | xclip'
+bind    p               = sh 'echo "uri `xclip -selection primary -o`" > $4'
+bind    P               = sh 'echo "uri `xclip -selection clipboard -o`" > $4'
+bind                  = exit
+
+# Keyword bookmark handlers
+bind    a _             = spawn $XDG_DATA_HOME/uzbl/scripts/keywordBm.py add "%s"
+bind    g _             = spawn $XDG_DATA_HOME/uzbl/scripts/keywordBm.py get "%s"
+bind    t _             = spawn $XDG_DATA_HOME/uzbl/scripts/keywordBm.py tab "%s"
+bind    o _             = spawn $XDG_DATA_HOME/uzbl/scripts/keywordBm.py open "%s"
+
+# Keyword search handlers
+bind    \gs _           = sh 'echo "set uri = $(surfraw -print $8 %s)" > $4' google
+bind    \gi _           = sh 'echo "set uri = $(surfraw -print $8 -search=$9 %s)" > $4' google images
+bind    \wiki _         = sh 'echo "set uri = $(surfraw -print $8 %s)" > $4' wikipedia
+bind    \imdb _         = sh 'echo "set uri = $(surfraw -print $8 %s)" > $4' imdb
+bind    \lfm _          = sh 'echo "set uri = $(surfraw -print $8 %s)" > $4' lastfm
+bind    \awiki _        = uri http://wiki.archlinux.org/index.php/Special:Search?search=%s&go=Go
+bind    \aur _          = sh 'echo "set uri = $(surfraw -print $8 %s)" > $4' aur
+bind    \gh             = set uri = http://www.github.com
+bind    \yt _           = set uri = http://www.youtube.com/results?search_type=&search_query=%s&ag=f
+bind    \weather _      = sh 'echo "set uri = $(surfraw -print $8 %s)" > $4' wetandwild
+bind    \urban _        = sh 'echo "set uri = $(surfraw -print $8 %s)" > $4' urban
+bind    \lgame _        = sh 'echo "set uri = $(surfraw -print $8 %s)" > $4' happypenguin
+bind    \freshmeat _    = sh 'echo "set uri = $(surfraw -print $8 %s)" > $4' freshmeat
+bind    \gtk _          = set uri = http://gnomefiles.org/search.php?search=%s
+bind    \ebay _         = sh 'echo "set uri = $(surfraw -print $8 %s)" > $4' ebay
+bind    \amg _          = sh 'echo "set uri = $(surfraw -print -l $8 site:allmusic.com %s)" > $4' google
+bind    \\bt _           = set uri = http://btjunkie.org/search?q=%s

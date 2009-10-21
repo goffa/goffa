@@ -1,0 +1,113 @@
+CachingBackend: Loading instances from cache
+Creating new entry for FeedReaderScreenlet in /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/FeedReader/default/
+No instance(s) found in session-path, creating new one.
+/home/goffa/.config/Screenlets/FeedReader/default/FeedReader1
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/FeedReader/themes/default
+theme.conf found! Loading option-overrides.
+theme.conf loaded: 
+Name: default
+Author: Helder Fraga aka Whise
+Version: 1.0
+Info: Default theme
+Override: color_title
+WARNING: Option 'color_title' not found or protected.
+Override: font
+WARNING: Option 'font' not found or protected.
+Override: color_hover
+WARNING: Option 'color_hover' not found or protected.
+Override: color_even
+WARNING: Option 'color_even' not found or protected.
+Override: font_title
+WARNING: Option 'font_title' not found or protected.
+Override: show_shadow
+WARNING: Option 'show_shadow' not found or protected.
+Override: color_back
+WARNING: Option 'color_back' not found or protected.
+Override: color_odd
+WARNING: Option 'color_odd' not found or protected.
+Override: color_text
+WARNING: Option 'color_text' not found or protected.
+OK
+(0.0, 0.0, 0.0, 1)
+1
+(1.0, 1.0, 1.0, 0.65000000000000002)
+0.65
+(1, 1, 1, 1)
+1
+(0, 0, 0, 0.65000000000000002)
+0.65
+(0, 0, 0, 0.55000000000000004)
+0.55
+(0, 0, 1.0, 0.65000000000000002)
+0.65
+/home/goffa/.screenlets/FeedReader/themes
+Path /home/goffa/.screenlets/FeedReader/themes not found.
+/usr/share/screenlets/FeedReader/themes
+active theme is: default
+Changed: is_widget
+Changed: is_sticky
+OK
+OK
+ID is unset or already in use - creating new one!
+File: FeedReader1.ini
+/home/goffa/.config/Screenlets/FeedReader/default/FeedReader2
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/FeedReader/themes/default
+theme.conf found! Loading option-overrides.
+theme.conf loaded: 
+Name: default
+Author: Helder Fraga aka Whise
+Version: 1.0
+Info: Default theme
+Override: color_title
+WARNING: Option 'color_title' not found or protected.
+Override: font
+WARNING: Option 'font' not found or protected.
+Override: color_hover
+WARNING: Option 'color_hover' not found or protected.
+Override: color_even
+WARNING: Option 'color_even' not found or protected.
+Override: font_title
+WARNING: Option 'font_title' not found or protected.
+Override: show_shadow
+WARNING: Option 'show_shadow' not found or protected.
+Override: color_back
+WARNING: Option 'color_back' not found or protected.
+Override: color_odd
+WARNING: Option 'color_odd' not found or protected.
+Override: color_text
+WARNING: Option 'color_text' not found or protected.
+OK
+(0.0, 0.0, 0.0, 1)
+1
+(1.0, 1.0, 1.0, 0.65000000000000002)
+0.65
+(1, 1, 1, 1)
+1
+(0, 0, 0, 0.65000000000000002)
+0.65
+(0, 0, 0, 0.55000000000000004)
+0.55
+(0, 0, 1.0, 0.65000000000000002)
+0.65
+/home/goffa/.screenlets/FeedReader/themes
+Path /home/goffa/.screenlets/FeedReader/themes not found.
+/usr/share/screenlets/FeedReader/themes
+active theme is: default
+Changed: feed_url
+OK
+OK
+Changed: is_widget
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+Refreshing feed...
+Done!
+OK
+OK

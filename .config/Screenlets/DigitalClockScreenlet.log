@@ -1,0 +1,55 @@
+CachingBackend: Loading instances from cache
+CachingBackend: Loading <DigitalClock1>
+CachingBackend: Loading <DigitalClock2>
+Found a running session of DigitalClock, adding new instance by service.
+Error in screenlets.services.get_service_by_name: org.freedesktop.DBus.Error.ServiceUnknown: The name org.screenlets.DigitalClock was not provided by any .service files
+Screenlet has already been added to /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/DigitalClock/default/
+File: DigitalClock1.ini
+/home/goffa/.config/Screenlets/Dig/default/DigitalClock1
+LOAD NEW THEME: default
+FOUND: /home/goffa/.screenlets/DigitalClock/themes/default
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+Set options in DigitalClock
+LOAD NEW THEME: default
+FOUND: /home/goffa/.screenlets/DigitalClock/themes/default
+File: DigitalClock2.ini
+/home/goffa/.config/Screenlets/Dig/default/DigitalClock2
+LOAD NEW THEME: default
+FOUND: /home/goffa/.screenlets/DigitalClock/themes/default
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+Set options in DigitalClock
+LOAD NEW THEME: default
+FOUND: /home/goffa/.screenlets/DigitalClock/themes/default
+Restored instances from session 'default' ...
+OK
+OK
+/home/goffa/.screenlets/DigitalClock/themes
+active theme is: default
+/usr/share/screenlets/DigitalClock/themes
+Path /usr/share/screenlets/DigitalClock/themes not found.
+Changed: is_widget
+OK
+Button release
+Button release
+Button release
+Button release
+Button release
+OK
+/home/goffa/.screenlets/DigitalClock/themes
+active theme is: default
+/usr/share/screenlets/DigitalClock/themes
+Path /usr/share/screenlets/DigitalClock/themes not found.
+Changed: draw_buttons
+OK
+Button release
+/home/goffa/.screenlets/DigitalClock/themes
+active theme is: default
+/usr/share/screenlets/DigitalClock/themes
+Path /usr/share/screenlets/DigitalClock/themes not found.
+OK
+Failed to unregister from daemon: org.freedesktop.DBus.Error.ServiceUnknown: The name :1.7 was not provided by any .service files

@@ -1,0 +1,206 @@
+CachingBackend: Loading instances from cache
+Creating new entry for DigiClockScreenlet in /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/DigiClock/default/
+No instance(s) found in session-path, creating new one.
+/home/goffa/.config/Screenlets/DigiClock/default/DigiClock1
+OK
+(1, 1, 1, 1)
+1
+(0, 0, 0, 0.59999999999999998)
+0.6
+/home/goffa/.screenlets/DigiClock/themes
+Path /home/goffa/.screenlets/DigiClock/themes not found.
+/usr/share/screenlets/DigiClock/themes
+active theme is: default
+Changed: is_widget
+OK
+OK
+(1, 1, 1, 1)
+1
+(0, 0, 0, 0.59999999999999998)
+0.6
+/home/goffa/.screenlets/DigiClock/themes
+Path /home/goffa/.screenlets/DigiClock/themes not found.
+/usr/share/screenlets/DigiClock/themes
+active theme is: default
+Changed: use_ampm
+OK
+(1, 1, 1, 1)
+1
+(0, 0, 0, 0.59999999999999998)
+0.6
+/home/goffa/.screenlets/DigiClock/themes
+Path /home/goffa/.screenlets/DigiClock/themes not found.
+/usr/share/screenlets/DigiClock/themes
+active theme is: default
+ID is unset or already in use - creating new one!
+File: DigiClock1.ini
+/home/goffa/.config/Screenlets/DigiClock/default/DigiClock2
+OK
+(1, 1, 1, 1)
+1
+(0, 0, 0, 0.59999999999999998)
+0.6
+/home/goffa/.screenlets/DigiClock/themes
+Path /home/goffa/.screenlets/DigiClock/themes not found.
+/usr/share/screenlets/DigiClock/themes
+active theme is: default
+OK
+Changed: use_ampm
+OK
+Changed: frame_color
+OK
+Changed: frame_color
+OK
+Changed: color_text
+OK
+Changed: color_text
+OK
+Changed: scale
+Changed: scale
+Changed: scale
+Changed: scale
+Changed: scale
+Changed: scale
+Changed: scale
+Changed: scale
+Changed: scale
+Changed: scale
+Changed: scale
+Changed: scale
+OK
+OK
+OK
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+Changed: x
+OK
+(0.41002517738612954, 0.38428320744640271, 0.3965056839856565, 1.0)
+1.0
+(0.028625925078202486, 0.0, 0.0, 0.59999999999999998)
+0.6
+/home/goffa/.screenlets/DigiClock/themes
+Path /home/goffa/.screenlets/DigiClock/themes not found.
+/usr/share/screenlets/DigiClock/themes
+active theme is: default
+(0.41002517738612954, 0.38428320744640271, 0.3965056839856565, 1.0)
+1.0
+(0.028625925078202486, 0.0, 0.0, 0.59999999999999998)
+0.6
+/home/goffa/.screenlets/DigiClock/themes
+Path /home/goffa/.screenlets/DigiClock/themes not found.
+/usr/share/screenlets/DigiClock/themes
+active theme is: default
+OK
+Changed: font
+OK
+OK
+OK
+Quitting current screenlet instance
+[<DigiClockScreenlet object at 0x8dadd9c (screenlets+Screenlet at 0x8d01ba0)>, <DigiClockScreenlet object at 0x8dbadc4 (screenlets+Screenlet at 0x926ab70)>]
+Removing instance from session but staying alive
+OK
+OK
+OK
+(1, 1, 1, 1)
+1
+(0, 0, 0, 0.59999999999999998)
+0.6
+/home/goffa/.screenlets/DigiClock/themes
+Path /home/goffa/.screenlets/DigiClock/themes not found.
+/usr/share/screenlets/DigiClock/themes
+active theme is: default
+Quitting current screenlet instance
+[<DigiClockScreenlet object at 0x8dadd9c (screenlets+Screenlet at 0x8d01ba0)>]

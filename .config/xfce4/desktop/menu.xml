@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdesktop-menu>
+	<app name="opera" cmd="opera" icon="epiphany"/>
+	<app name="firefox" cmd="firefox" icon="mozilla-firefox"/>
+	<app name="Terminal" cmd="Terminal" icon="gksu-debian"/>
+	<menu name="Settings" icon="gnome-settings">
+		<app name="Settings Manager" cmd="xfce-setting-show" icon="gnome-settings" snotify="true"/>
+	</menu>
+	<separator/>
+	<include type="system" style="simple" unique="true" legacy="true"/>
+	<separator/>
+	<app name="About Xfce" cmd="xfce4-about"/>
+	<builtin name="Quit" cmd="quit" icon="gnome-logout"/>
+</xfdesktop-menu>

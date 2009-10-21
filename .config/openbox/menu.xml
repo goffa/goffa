@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<openbox_menu xmlns="http://openbox.org/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://openbox.org/
+                file:///usr/share/openbox/menu.xsd">
+
+<menu id="tools-menu" label="Tools">
+  <item label="console">
+    <action name="Execute"><execute>aterm -title console +sb -fg gray90 -bg black -sl 1024 -tr -sh 25 -fn -Misc-Fixed-Bold-R-Normal--13-120-75-75-C-70-ISO8859-1</execute></action>
+  </item>
+  <item label="xterm">
+     <action name="Execute"><execute>xterm</execute></action>
+</item>
+  <item label="file manager">
+    <action name="Execute"><execute>rox</execute></action>
+  </item>
+  <item label="text editor">
+    <action name="Execute"><execute>leafpad</execute></action>
+  </item>
+  <item label="calculator">
+    <action name="Execute"><execute>galculator</execute></action>
+  </item>
+  <item label="font sampler">
+    <action name="Execute"><execute>gfontsampler</execute></action>
+  </item>
+  <item label="package organizer">
+    <action name="Execute"><execute>sudo gpaco</execute></action>
+  </item>
+</menu>
+
+<menu id="net-menu" label="Internet">
+  <item label="web">
+    <action name="Execute"><execute>firefox</execute></action>
+  </item>
+  <item label="chat">
+    <action name="Execute"><execute>gaim</execute></action>
+  </item>
+  <item label="irc">
+    <action name="Execute"><execute>aterm -title irc +sb -fg gray90 -bg black -sl 1024 -fn -Misc-Fixed-Bold-R-Normal--13-120-75-75-C-70-ISO8859-1 -e screen irssi</execute></action>
+  </item>
+  <item label="usenet">
+    <action name="Execute"><execute>pan</execute></action>
+  </item>
+  <item label="ftp">
+    <action name="Execute"><execute>aterm -title ftp +sb -fg gray90 -bg black -sl 1024 -fn -Misc-Fixed-Bold-R-Normal--13-120-75-75-C-70-ISO8859-1 -e screen lftp</execute></action>
+  </item>
+  <item label="soulseek">
+    <action name="Execute"><execute>nicotine</execute></action>
+  </item>
+  <item label="napster">
+    <action name="Execute"><execute>lopster</execute></action>
+  </item>
+  <item label="gnutella">
+    <action name="Execute"><execute>gtk-gnutella</execute></action>
+  </item>
+  <item label="edonkey">
+    <action name="Execute"><execute>amule</execute></action>
+  </item>
+</menu>
+
+<menu id="prod-menu" label="Production">
+  <item label="word processor">
+    <action name="Execute"><execute>abiword</execute></action>
+  </item>
+  <item label="spreadsheet">
+    <action name="Execute"><execute>gnumeric</execute></action>
+  </item>
+  <item label="graphics">
+    <action name="Execute"><execute>gimp</execute></action>
+  </item>
+  <item label="design renderer">
+    <action name="Execute"><execute>fyre</execute></action>
+  </item>
+  <item label="diagram">
+    <action name="Execute"><execute>dia</execute></action>
+  </item>
+  <item label="drawing">
+    <action name="Execute"><execute>inkscape</execute></action>
+  </item>
+  <item label="audio composer">
+    <action name="Execute"><execute>beast</execute></action>
+  </item>
+  <item label="audio editor">
+    <action name="Execute"><execute>audacity</execute></action>
+  </item>
+  <item label="web editor">
+    <action name="Execute"><execute>bluefish</execute></action>
+  </item>
+</menu>
+
+<menu id="media-menu" label="Multimedia">
+  <item label="music player">
+    <action name="Execute"><execute>gmpc</execute></action>
+  </item>
+
+  <item label="Xmms">
+    <action name="Execute"><execute>xmms</execute></action>
+  </item>
+
+  <item label="video player">
+    <action name="Execute"><execute>gmplayer</execute></action>
+  </item>
+  <item label="dvd player">
+    <action name="Execute"><execute>mplayer dvd://</execute></action>
+  </item>
+  <item label="radio tuner">
+    <action name="Execute"><execute>streamtuner</execute></action>
+  </item>
+  <item label="audio tagger">
+    <action name="Execute"><execute>easytag</execute></action>
+  </item>
+  <item label="book organizer">
+    <action name="Execute"><execute>alexandria</execute></action>
+  </item>
+  <item label="disc burner">
+    <action name="Execute"><execute>k3b</execute></action>
+  </item>
+</menu>
+
+<menu id="games-menu" label="Games">
+  <item label="Welltris">
+    <action name="Execute"><execute>xwelltris</execute></action>
+  </item>
+<item label="Csmash">
+    <action name="Execute"><execute>csmash</execute></action>
+  </item>
+   <item label="Foobilliard">
+    <action name="Execute"><execute>foobillard</execute></action>
+  </item>
+  <item label="LBreakout2">
+    <action name="Execute"><execute>lbreakout2</execute></action>
+  </item>
+  <item label="Shmear">
+    <action name="Execute"><execute>wine shmear.exe</execute></action>
+  </item>
+</menu>
+
+<menu id="root-menu" label="Openbox 3">
+  <menu id="tools-menu" />
+  <menu id="net-menu" />
+  <menu id="prod-menu" />
+  <menu id="media-menu" />
+  <menu id="games-menu" />
+  <separator />
+  <menu id="client-list-menu" />
+  <separator />
+  <menu id="ob3_wall" label="Wallpaper" execute="ob3_wall" />
+  <item label="ObConf">
+    <action name="Execute"><execute>obconf</execute></action>
+  </item>
+  <item label="Reconfigure">
+    <action name="Reconfigure" />
+  </item>
+  <separator />
+  <item label="Exit">
+    <action name="Exit" />
+  </item>
+</menu>
+
+</openbox_menu>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<branch name="/">
+	<branch name="xfmedia">
+		<branch name="general">
+			<setting name="chooser_last_dir" type="1" value="/home/goffa" />
+			<setting name="dock_autohide" type="3" value="false" />
+			<setting name="height_large" type="2" value="222" />
+			<setting name="height_small" type="2" value="74" />
+			<setting name="minimize_to_tray" type="3" value="true" />
+			<setting name="pos_x" type="2" value="1173" />
+			<setting name="pos_y" type="2" value="327" />
+			<setting name="selected_vis" type="1" value="goom" />
+			<setting name="show_audio_vis" type="3" value="false" />
+			<setting name="show_tray_icon" type="3" value="false" />
+			<setting name="tray_middle_click_action" type="2" value="0" />
+			<setting name="vwin_pos_x" type="2" value="2654" />
+			<setting name="vwin_pos_y" type="2" value="461" />
+			<setting name="width" type="2" value="500" />
+			<setting name="window_above" type="3" value="false" />
+			<setting name="window_sticky" type="3" value="false" />
+		</branch>
+		<branch name="mediamarks">
+			<setting name="manager_height" type="2" value="400" />
+			<setting name="manager_width" type="2" value="615" />
+			<setting name="manager_x" type="2" value="25" />
+			<setting name="manager_y" type="2" value="25" />
+		</branch>
+		<branch name="playlist">
+			<setting name="add_sort_type" type="2" value="0" />
+			<setting name="auto_advance" type="3" value="true" />
+			<setting name="metadata_load_impetus" type="2" value="0" />
+			<setting name="playlist_expanded" type="3" value="true" />
+			<setting name="playlist_format" type="1" value="(%p) %t" />
+			<setting name="playlist_position" type="2" value="0" />
+			<setting name="repeat" type="3" value="false" />
+			<setting name="repeat_one" type="3" value="false" />
+			<setting name="save_on_exit_always" type="3" value="false" />
+			<setting name="shuffle" type="3" value="false" />
+		</branch>
+		<branch name="playlist_queue">
+			<setting name="pos_x" type="2" value="-1" />
+			<setting name="pos_y" type="2" value="-1" />
+		</branch>
+		<branch name="plugins">
+			<branch name="libxine">
+				<setting name="audio_out" type="1" value="auto" />
+				<setting name="video_out" type="1" value="auto" />
+			</branch>
+		</branch>
+	</branch>
+</branch>

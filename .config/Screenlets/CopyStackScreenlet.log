@@ -1,0 +1,86 @@
+CachingBackend: Loading instances from cache
+Found a running session of CopyStack, adding new instance by service.
+Error in screenlets.services.get_service_by_name: org.freedesktop.DBus.Error.ServiceUnknown: The name org.screenlets.CopyStack was not provided by any .service files
+Screenlet has already been added to /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/CopyStack/default/
+No instance(s) found in session-path, creating new one.
+/home/goffa/.config/Screenlets/CopyStack/default/CopyStack1
+[]
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/CopyStack/themes/default
+theme.conf found! Loading option-overrides.
+theme.conf loaded: 
+Name: Bars
+Author: RYX (aka Rico Pfaus)
+Version: 1.0
+Info: A simple theme for the copystack.
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+Screenlet has been initialized.
+OK
+Start drag
+DRAG BEGIN
+Button release
+End drag
+Start drag
+DRAG BEGIN
+Button release
+End drag
+Start drag
+DRAG BEGIN
+Button release
+End drag
+OK
+Button release
+Start drag
+DRAG BEGIN
+Button release
+End drag
+/home/goffa/.screenlets/CopyStack/themes
+Path /home/goffa/.screenlets/CopyStack/themes not found.
+/usr/share/screenlets/CopyStack/themes
+active theme is: default
+OK
+Changed: is_widget
+OK
+Start drag
+DRAG BEGIN
+Button release
+End drag
+Start drag
+DRAG BEGIN
+Button release
+End drag
+OK
+OK
+[<__main__.UrlElement instance at 0x89f5b2c>]
+OK
+[<__main__.UrlElement instance at 0x89f5b2c>, <__main__.UrlElement instance at 0x89f526c>]
+OK
+[<__main__.UrlElement instance at 0x89f5b2c>, <__main__.UrlElement instance at 0x89f526c>, <__main__.UrlElement instance at 0x89f5bcc>]
+OK
+[<__main__.UrlElement instance at 0x89f5b2c>, <__main__.UrlElement instance at 0x89f526c>, <__main__.UrlElement instance at 0x89f5bcc>, <__main__.TextElement instance at 0x89f56ec>]
+OK
+[<__main__.UrlElement instance at 0x89f5b2c>, <__main__.UrlElement instance at 0x89f526c>, <__main__.UrlElement instance at 0x89f5bcc>, <__main__.TextElement instance at 0x89f56ec>, <__main__.TextElement instance at 0x89f5c2c>]
+OK
+OK
+OK
+[<__main__.UrlElement instance at 0x89f5b2c>, <__main__.UrlElement instance at 0x89f526c>, <__main__.UrlElement instance at 0x89f5bcc>, <__main__.TextElement instance at 0x89f56ec>, <__main__.TextElement instance at 0x89f5c2c>, <__main__.UrlElement instance at 0x89f5acc>]
+OK
+ID is unset or already in use - creating new one!
+File: CopyStack1.ini
+/home/goffa/.config/Screenlets/CopyStack/default/CopyStack2
+[]
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/CopyStack/themes/default
+theme.conf found! Loading option-overrides.
+theme.conf loaded: 
+Name: Bars
+Author: RYX (aka Rico Pfaus)
+Version: 1.0
+Info: A simple theme for the copystack.
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+Screenlet has been initialized.
+OK
+Failed to unregister from daemon: org.freedesktop.DBus.Error.ServiceUnknown: The name :1.7 was not provided by any .service files

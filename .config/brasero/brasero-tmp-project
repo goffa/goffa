@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF8"?>
+<braseroproject>
+	<version>0.2</version>
+	<track>
+		<data>
+			<graft>
+				<path>/Privacy matters 1.doc</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FPrivacy%2520matters%25201.doc</uri>
+			</graft>
+			<graft>
+				<path>/NFL Picks.xls</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FNFL%2520Picks.xls</uri>
+			</graft>
+			<graft>
+				<path>/Pretrip checklist.doc</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FPretrip%2520checklist.doc</uri>
+			</graft>
+			<graft>
+				<path>/Kris's NFL Picks W2.xls</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FKris%27s%2520NFL%2520Picks%2520W2.xls</uri>
+			</graft>
+			<graft>
+				<path>/Kris's taxes</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FKris%27s%2520taxes</uri>
+			</graft>
+			<graft>
+				<path>/Wisconsin checklist.doc</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FWisconsin%2520checklist.doc</uri>
+			</graft>
+			<graft>
+				<path>/desktop.ini</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2Fdesktop.ini</uri>
+			</graft>
+			<graft>
+				<path>/quickenw</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2Fquickenw</uri>
+			</graft>
+			<graft>
+				<path>/pictures</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2Fpictures</uri>
+			</graft>
+			<graft>
+				<path>/My Google Gadgets</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FMy%2520Google%2520Gadgets</uri>
+			</graft>
+			<graft>
+				<path>/Worksheet_APPENDIX_B_(2)[1].doc</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FWorksheet_APPENDIX_B_%282%29%255B1%255D.doc</uri>
+			</graft>
+			<graft>
+				<path>/My Sharing Folders.lnk</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FMy%2520Sharing%2520Folders.lnk</uri>
+			</graft>
+			<graft>
+				<path>/TaxCut</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FTaxCut</uri>
+			</graft>
+			<graft>
+				<path>/Quicken</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FQuicken</uri>
+			</graft>
+			<graft>
+				<path>/My Received Files</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FMy%2520Received%2520Files</uri>
+			</graft>
+			<graft>
+				<path>/YAC minutes May 08.doc</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FYAC%2520minutes%2520May%252008.doc</uri>
+			</graft>
+			<graft>
+				<path>/Local_Community_Readiness_Assessment_Guide-IP.doc</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FLocal_Community_Readiness_Assessment_Guide-IP.doc</uri>
+			</graft>
+			<graft>
+				<path>/My Stationery</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FMy%2520Stationery</uri>
+			</graft>
+			<graft>
+				<path>/Kris</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FKris</uri>
+			</graft>
+			<graft>
+				<path>/emaibackup.pst</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2Femaibackup.pst</uri>
+			</graft>
+			<graft>
+				<path>/Work</path>
+				<uri>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FWork</uri>
+			</graft>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FPrivacy%2520matters%25201.doc</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FNFL%2520Picks.xls</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FPretrip%2520checklist.doc</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FKris's%2520NFL%2520Picks%2520W2.xls</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FKris's%2520taxes</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FWisconsin%2520checklist.doc</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2Fdesktop.ini</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2Fquickenw</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2Fpictures</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FMy%2520Google%2520Gadgets</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FWorksheet_APPENDIX_B_(2)%255B1%255D.doc</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FMy%2520Sharing%2520Folders.lnk</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FTaxCut</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FQuicken</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FMy%2520Received%2520Files</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FYAC%2520minutes%2520May%252008.doc</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FLocal_Community_Readiness_Assessment_Guide-IP.doc</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FMy%2520Stationery</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FKris</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2Femaibackup.pst</excluded>
+			<excluded>file%3A%2F%2F%2Fmnt%2Fiaudio%2Fkris%2FWork</excluded>
+		</data>
+	</track>
+</braseroproject>

@@ -1,0 +1,53 @@
+CachingBackend: Loading instances from cache
+CachingBackend: Loading <ClearRss1>
+Creating new entry for ClearRssScreenlet in /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/ClearRss/default/
+File: ClearRss1.ini
+/home/goffa/.config/Screenlets/ClearRss/default/ClearRss1
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/ClearRss/themes/default
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+Refreshing feed...
+Done!
+Set options in ClearRssScreenlet
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/ClearRss/themes/default
+Screenlet has been initialized.
+Restored instances from session 'default' ...
+Loading text...
+Done!
+OK
+(0, 0, 0, 0.80000000000000004)
+0.8
+(1, 1, 1, 0.90000000000000002)
+0.9
+/home/goffa/.screenlets/ClearRss/themes
+Path /home/goffa/.screenlets/ClearRss/themes not found.
+/usr/share/screenlets/ClearRss/themes
+active theme is: default
+Changed: feed_url
+Changed: feed_name
+Changed: feed_name
+Changed: feed_name
+Changed: feed_name
+Changed: feed_name
+Changed: feed_name
+Changed: feed_name
+Changed: feed_name
+Changed: feed_name
+Changed: feed_name
+Changed: feed_name
+Changed: feed_name
+OK
+Changed: is_widget
+OK
+OK
+OK
+Refreshing feed...
+Done!
+Refreshing feed...
+Done!
+Refreshing feed...
+Done!
+Refreshing feed...
+Done!

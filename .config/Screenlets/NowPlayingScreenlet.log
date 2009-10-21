@@ -1,0 +1,18 @@
+CachingBackend: Loading instances from cache
+CachingBackend: Loading <NowPlaying1>
+Creating new entry for NowPlayingScreenlet in /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/NowPlaying/default/
+File: NowPlaying1.ini
+/home/goffa/.config/Screenlets/NowPlaying/default/NowPlaying1
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/NowPlaying/themes/default
+Set options in NowPlayingScreenlet
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/NowPlaying/themes/default
+sonata
+Screenlet has been initialized.
+Restored instances from session 'default' ...
+Button release
+OK
+Quitting current screenlet instance
+[<NowPlayingScreenlet object at 0xa497504 (screenlets+Screenlet at 0xa3f2390)>]

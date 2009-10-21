@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ob3_wall_config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- command to set wallpaper (must contain one %s, file substitution) -->
+<!--
+  <command>Esetroot -s %s</command>
+-->
+  <!-- directories to scan -->
+  <dir>/home/goffa/wallpaper</dir>
+</ob3_wall_config>

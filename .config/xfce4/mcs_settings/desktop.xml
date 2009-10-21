@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mcs-option SYSTEM "mcs-option.dtd">
+
+<mcs-option>
+	<option name="brightness_0_0" type="int" value="0"/>
+	<option name="brightness_0_1" type="int" value="0"/>
+	<option name="color1_0_0" type="color" value="           23203,           25706,           29285,           65535"/>
+	<option name="color1_0_1" type="color" value="           15104,           23296,           35072,           65535"/>
+	<option name="color2_0_0" type="color" value="           23179,           25987,           29597,           65535"/>
+	<option name="color2_0_1" type="color" value="           15872,           26624,           40448,           65535"/>
+	<option name="colorstyle_0_0" type="int" value="0"/>
+	<option name="colorstyle_0_1" type="int" value="1"/>
+	<option name="desktopiconstyle" type="int" value="2"/>
+	<option name="icons_font_size" type="int" value="4"/>
+	<option name="icons_use_system_font_size" type="int" value="1"/>
+	<option name="imagepath_0_0" type="string" value="/home/goffa/wallpaper/6.jpg"/>
+	<option name="imagepath_0_1" type="string" value="/usr/share/xfce4/backdrops/xfce-turbulence.png"/>
+	<option name="imagepath_1_0" type="string" value="/usr/share/xfce4/backdrops/xubuntu-jmak.png"/>
+	<option name="imagepath_1_1" type="string" value="/usr/share/xfce4/backdrops/xubuntu-jmak.png"/>
+	<option name="imagestyle_0_0" type="int" value="3"/>
+	<option name="imagestyle_0_1" type="int" value="3"/>
+	<option name="showdm" type="int" value="1"/>
+	<option name="showimage_0_0" type="int" value="0"/>
+	<option name="showimage_0_1" type="int" value="0"/>
+	<option name="showimage_1_0" type="int" value="1"/>
+	<option name="showimage_1_1" type="int" value="1"/>
+	<option name="showwl" type="int" value="1"/>
+	<option name="xineramastretch" type="int" value="1"/>
+</mcs-option>

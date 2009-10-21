@@ -1,0 +1,67 @@
+CachingBackend: Loading instances from cache
+Creating new entry for WindowlistScreenlet in /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/Windowlist/default/
+No instance(s) found in session-path, creating new one.
+/home/goffa/.config/Screenlets/Windowlist/default/Windowlist1
+Screenlet has been initialized.
+OK
+Button release
+Button release
+Button release
+Button release
+Button release
+OK
+Button release
+Button release
+Button release
+Button release
+Button release
+Button release
+Button release
+Button release
+Button release
+Button release
+Button release
+Button release
+OK
+/home/goffa/.screenlets/Windowlist/themes
+Path /home/goffa/.screenlets/Windowlist/themes not found.
+/usr/share/screenlets/Windowlist/themes
+Path /usr/share/screenlets/Windowlist/themes not found.
+Button release
+Button release
+Button release
+Button release
+OK
+OK
+Button release
+OK
+Button release
+Button release
+Button release
+Button release
+OK
+Button release
+OK
+OK
+OK
+/home/goffa/.screenlets/Windowlist/themes
+Path /home/goffa/.screenlets/Windowlist/themes not found.
+/usr/share/screenlets/Windowlist/themes
+Path /usr/share/screenlets/Windowlist/themes not found.
+Changed: is_sticky
+Changed: keep_above
+Changed: keep_above
+OK
+Changed: draw_buttons
+OK
+Changed: draw_buttons
+OK
+Changed: draw_buttons
+OK
+Changed: vertical
+Changed: left
+OK
+Button release
+quiting
+OK

@@ -1,0 +1,34 @@
+CachingBackend: Loading instances from cache
+Creating new entry for AppMenuScreenlet in /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/AppMenu/default/
+No instance(s) found in session-path, creating new one.
+/home/goffa/.config/Screenlets/AppMenu/default/AppMenu1
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/AppMenu/themes/default
+theme.conf found! Loading option-overrides.
+theme.conf loaded: 
+Name: default
+Author: Helder Fraga aka Whise
+Version: 1.0
+Info: Default theme
+Override: color_title
+WARNING: Option 'color_title' not found or protected.
+Override: font
+WARNING: Option 'font' not found or protected.
+Override: color_hover
+WARNING: Option 'color_hover' not found or protected.
+Override: color_even
+WARNING: Option 'color_even' not found or protected.
+Override: font_title
+WARNING: Option 'font_title' not found or protected.
+Override: show_shadow
+WARNING: Option 'show_shadow' not found or protected.
+Override: color_back
+WARNING: Option 'color_back' not found or protected.
+Override: color_odd
+WARNING: Option 'color_odd' not found or protected.
+Override: color_text
+WARNING: Option 'color_text' not found or protected.
+OK
+Quitting current screenlet instance
+[<AppMenuScreenlet object at 0x8f9beb4 (screenlets+Screenlet at 0x8f11890)>]

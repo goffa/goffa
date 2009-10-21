@@ -1,0 +1,25 @@
+CachingBackend: Loading instances from cache
+CachingBackend: Loading <mlbstandings1>
+Found a running session of mlbstandings, adding new instance by service.
+Error in screenlets.services.get_service_by_name: org.freedesktop.DBus.Error.ServiceUnknown: The name org.screenlets.mlbstandings was not provided by any .service files
+Screenlet has already been added to /tmp/screenlets/screenlets.goffa.running
+Loading instances in: /home/goffa/.config/Screenlets/mlbstandings/default/
+File: mlbstandings1.ini
+/home/goffa/.config/Screenlets/mlb/default/mlbstandings1
+LOAD NEW THEME: default
+FOUND: None
+Set options in mlbstandings
+LOAD NEW THEME: default
+FOUND: None
+Restored instances from session 'default' ...
+OK
+(0, 0, 0, 0.5)
+0.5
+(1, 1, 1, 1)
+1
+/home/goffa/.screenlets/mlbstandings/themes
+Path /home/goffa/.screenlets/mlbstandings/themes not found.
+/usr/share/screenlets/mlbstandings/themes
+Path /usr/share/screenlets/mlbstandings/themes not found.
+Changed: is_widget
+OK

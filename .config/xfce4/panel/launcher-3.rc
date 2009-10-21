@@ -1,0 +1,8 @@
+[Entry 0]
+Name=Home
+Exec=thunar
+Terminal=false
+StartupNotify=true
+Comment=Browse your home folder
+Icon=user-home.png
+

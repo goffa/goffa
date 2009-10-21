@@ -1,0 +1,48 @@
+{
+   "bookmark_bar": {
+      "show_on_all_tabs": true
+   },
+   "browser": {
+      "check_default_browser": false,
+      "show_home_button": true
+   },
+   "countryid_at_install": -1,
+   "default_search_provider": {
+      "id": "2",
+      "name": "Google",
+      "search_url": "{google:baseURL}search?{google:RLZ}{google:acceptedSuggestion}{google:originalQueryForSuggestion}sourceid=chrome&ie={inputEncoding}&q={searchTerms}",
+      "suggest_url": "{google:baseSuggestURL}search?client=chrome&hl={language}&q={searchTerms}"
+   },
+   "download": {
+      "directory_upgrade": true,
+      "extensions_to_open": ""
+   },
+   "extensions": {
+      "autoupdate": {
+         "next_check": "12897871636927848"
+      },
+      "settings": {
+
+      }
+   },
+   "homepage": "http://www.google.com/",
+   "homepage_is_newtabpage": false,
+   "ntp": {
+      "tips_cache": {
+         "current_tip": 0,
+         "tips": [ "Press <strong>Ctrl+O</strong> to open a file in the browser. Learn more <a href=\"http://www.google.com/support/chrome/bin/answer.py?answer=95743&ctx=tip\">keyboard shortcuts</a>.", "Click the star next to the address bar to bookmark the page you're viewing. Learn more <a href=\"http://www.google.com/support/chrome/bin/answer.py?answer=95739&ctx=tip\">bookmarking tricks</a>.\n", "Did you know you can drag the star to the bookmarks bar to create a bookmark for the page? Learn more <a href=\"http://www.google.com/support/chrome/bin/answer.py?answer=95739&ctx=tip\">bookmarking tricks</a>.", "Did you know you can drag a link to the bookmarks bar to create an instant bookmark? Learn more <a href=\"http://www.google.com/support/chrome/bin/answer.py?answer=95739&ctx=tip\">bookmarking tricks</a>.", "Press <strong>Ctrl+Shift+T</strong> to reopen the last tab you closed. Use this shortcut repeatedly to reopen even more closed tabs. Learn more <a href=\"http://www.google.com/support/chrome/bin/answer.py?answer=95743&ctx=tip\">keyboard shortcuts</a>.", "Don't want to leave traces of your browsing history? Browse in incognito mode. <a href=\"http://www.google.com/support/chrome/bin/answer.py?answer=95464&ctx=tip\">Learn more</a>", "Accidentally closed a window full of tabs? Find it again in the <strong>Recently closed</strong> section of the New Tab page.", "Don't see a home button next to the address bar? Learn how to <a href=\"http://www.google.com/support/chrome/bin/answer.py?answer=95314&ctx=tip\">add one</a> to get easy access to your home page.", "Search directly from the address bar. Enter a search term and press <strong>Enter</strong> to see immediate search results. Learn more <a href=\"http://www.google.com/support/chrome/bin/answer.py?answer=95655&ctx=tip\">search tips</a>.\n", "Press <strong>Ctrl+B</strong> to dock your bookmarks bar under the address bar. Learn more <a href=\"http://www.google.com/support/chrome/bin/answer.py?answer=95743&ctx=tip\">keyboard shortcuts</a>.", "Press <strong>F6</strong> to quickly place your cursor in the address bar. Learn more <a href=\"http://www.google.com/support/chrome/bin/answer.py?answer=95743&ctx=tip\">keyboard shortcuts</a>." ],
+         "topic_id": "24013"
+      },
+      "tips_cache_update": "1253397630.235936",
+      "tips_server": "https://clients2.google.com/tools/service/npredir?r=chrometips_linux&hl=en-US"
+   },
+   "profile": {
+      "exited_cleanly": true,
+      "id": "not-signed-in",
+      "name": "",
+      "nickname": ""
+   },
+   "session": {
+      "urls_to_restore_on_startup": [  ]
+   }
+}

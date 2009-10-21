@@ -1,0 +1,25 @@
+
+[Print Settings]
+print-at=now
+cups-HalftoningAlgorithm=Standard
+scale=100
+cups-job-priority=50
+cups-Resolution=600x600dpi
+cups-job-sheets=none,none
+page-set=all
+print-pages=all
+media-type=plain
+collate=false
+n-copies=1
+cups-EconoMode=off
+cups-MediaType=plain
+printer=brother
+reverse=false
+cover-after=none
+print-at-time=
+default-source=auto
+cups-InputSlot=auto
+cups-number-up=1
+cover-before=none
+resolution=600
+number-up=1

@@ -1,0 +1,8 @@
+[General]
+show_user_tasks=true
+show_root_tasks=false
+show_other_tasks=false
+full_view=false
+win_width=500
+win_height=400
+
